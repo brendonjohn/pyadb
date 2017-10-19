@@ -1,19 +1,12 @@
 ![build_travis](https://travis-ci.org/sch3m4/pyadb.svg?branch=master)
 
-Simple python module to interact with the ADB tool
+Simple python module to interact with the ADB tool. Hacked to work with python 3.6.3
+
 
 ### How to install:
 
 Currently there is no Debian package available for PyADB. (Will be fixed soon...)
 
-#### Debian Package:
-
-    $ sudo dpkg -i python-pyadb_0.1.1-1_all.deb 
-    Selecting previously unselected package python-pyadb.
-    (Leyendo la base de datos ... 322039 ficheros o directorios instalados actualmente.)
-    Desempaquetando python-pyadb (de python-pyadb_0.1.1-1_all.deb) ...
-    Configurando python-pyadb (0.1.1-1) ...
-    $
 
 #### Pip (Not always the latest version)
 
